@@ -48,7 +48,9 @@ INSTALLED_APPS = [
     'corsheaders',
     # custom
     'properties',
-    'users'
+    'users',
+    'members',
+    'contracts'
 ]
 
 MIDDLEWARE = [
